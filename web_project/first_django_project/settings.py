@@ -31,8 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'first_djanjo_project',
-    'web_project',
+    'first_djanjo_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
